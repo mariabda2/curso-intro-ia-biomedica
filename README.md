@@ -52,7 +52,7 @@ cacbb-modulo6-ia-biomedica/
 ## 📚 Contenido por sesión
 
 ### 🔵 Sesión 01 — Introducción al Análisis de Datos con IA
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CACBB/cacbb-modulo6-ia-biomedica/blob/main/Sesion_01_Intro_Analisis_Datos_IA.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mariabda2/curso-intro-ia-biomedica/blob/main/Sesion_01_Intro_Analisis_Datos_IA.ipynb)
 
 Fundamentos conceptuales y primera experiencia práctica con Python y machine learning.
 
@@ -70,7 +70,7 @@ Fundamentos conceptuales y primera experiencia práctica con Python y machine le
 ---
 
 ### 🟠 Sesión 02 — Aplicación de la IA en las Ciencias Biomédicas
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CACBB/cacbb-modulo6-ia-biomedica/blob/main/Sesion_02_IA_Ciencias_Biomedicas.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mariabda2/curso-intro-ia-biomedica/blob/main/Sesion_02_IA_Ciencias_Biomedicas.ipynb)
 
 Modelos predictivos aplicados a problemas clínicos reales con énfasis en métricas médicas.
 
@@ -88,7 +88,7 @@ Modelos predictivos aplicados a problemas clínicos reales con énfasis en métr
 ---
 
 ### 🟣 Sesión 03 — Herramientas de IA en las Ciencias Biomédicas
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CACBB/cacbb-modulo6-ia-biomedica/blob/main/Sesion_03_Herramientas_IA_Biomedicas.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mariabda2/curso-intro-ia-biomedica/blob/main/Sesion_03_Herramientas_IA_Biomedicas.ipynb)
 
 Ecosistema completo de herramientas especializadas para biomedicina e investigación.
 
@@ -107,7 +107,7 @@ Ecosistema completo de herramientas especializadas para biomedicina e investigac
 ---
 
 ### 🏆 Taller Final — Análisis de Datos utilizando IA
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CACBB/cacbb-modulo6-ia-biomedica/blob/main/Taller_Final_Analisis_Datos_IA.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mariabda2/curso-intro-ia-biomedica/blob/main/Taller_Final_Analisis_Datos_IA.ipynb)
 
 Proyecto integrador de principio a fin con el **Cleveland Heart Disease Dataset**.
 
