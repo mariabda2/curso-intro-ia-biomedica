@@ -18,8 +18,7 @@
 
 | Campo | Detalle |
 |-------|---------|
-| **Institución** | Corporación Académica Ciencias Básicas Biomédicas (CACBB) |
-| **Programa** | Maestría y Doctorado en Ciencias Básicas Biomédicas |
+| **Institución** | Universidad de Antioquia |
 | **Módulo** | 6 — Introducción al Análisis de Datos con IA |
 | **Modalidad** | Teórico-práctica · Google Colab |
 | **Nivel** | Principiante → Intermedio |
@@ -29,7 +28,7 @@
 
 ## 📖 Descripción
 
-Este repositorio contiene el material didáctico oficial del **Módulo 6** del programa de posgrado en Ciencias Básicas Biomédicas. A través de cuatro notebooks de Google Colab, los estudiantes recorren un camino progresivo desde los fundamentos del análisis de datos hasta la construcción de pipelines completos de inteligencia artificial aplicados a problemas clínicos y biomédicos reales.
+Este repositorio contiene el material didáctico oficial módulo "Introducción al análisis de datos utilizando herramientas de inteligencia artificial". A través de cuatro notebooks de Google Colab, los estudiantes recorren un camino progresivo desde los fundamentos del análisis de datos hasta la construcción de pipelines completos de inteligencia artificial aplicados a problemas clínicos y biomédicos reales.
 
 El módulo está diseñado para profesionales de las ciencias de la salud **sin experiencia previa en programación**, con énfasis en la interpretación clínica de los resultados, la reproducibilidad científica y la ética en el uso de IA en salud.
 
