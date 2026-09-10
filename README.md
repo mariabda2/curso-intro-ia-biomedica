@@ -7,8 +7,8 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![License](https://img.shields.io/badge/Licencia-MIT-2A9D8F?style=for-the-badge)
 
-**Corporación Académica Ciencias Básicas Biomédicas**  
-Maestría y Doctorado en Ciencias Básicas Biomédicas
+**Universidad de Antioquia**  
+
 
 </div>
 
